@@ -907,7 +907,7 @@ body {
 }
 
 select.ode-PropertyEditor[disabled] {
-  background-color: #aaaaaa;
+  background-color: white;
 }
 
 .ode-MultipleChoicePropertyEditor {
@@ -945,7 +945,7 @@ select.ode-PropertyEditor[disabled] {
 
 .ode-SimpleMockForm {
   height: auto !important;
-  background-color: #d2e0a6;
+  background-color: white;
   border: 2px solid black;
   -webkit-display: flex;
   display: flex;
